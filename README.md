@@ -1,3 +1,3 @@
-# sextodesafio
+# Desafio 6 y 11
 
-<h3> aplicando handlebars</h3>
+
